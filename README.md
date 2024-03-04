@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2> hi, I'm Jackson 👋 </h2>
 
-<!--
-**jackson0143/jackson0143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h4>Welcome to my page ! </h4>
+I'm currently a Software Engineering and Mathematics student located in Melbourne, VIC. 
+A bit late to the scene, but hopefully I can learn and work with many different projects as I progress through my software engineering journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br></br>
+
+My main languages that I am familiar with are: Python, JavaScript (TypeScript), Java, MATLAB, HTML/CSS. 
+This goes along some frameworks that I know (and am trying to extend my knowledge on): React (Node.js and Next.js), Tailwind, Django.
+
+Besides that, some hobbies I love doing are reading, cooking (I love baking), and always finding new places to eat :)
+
+
+<p><a href="https://www.linkedin.com/in/jackson-nguyen-0307a6230/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
+
