@@ -1,4 +1,4 @@
-<h2> hi, I'm Jackson 👋 </h2>
+<!-- <h2> hi, I'm Jackson 👋 </h2>
 
 
 <h4>Welcome to my page ! </h4>
@@ -15,3 +15,5 @@ Besides that, some hobbies I love doing are reading, cooking (I love baking), an
 
 <p><a href="https://www.linkedin.com/in/jackson-nguyen-0307a6230/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
+
+-->
