@@ -6,9 +6,10 @@ I'm currently a Software Engineering and Mathematics student located in Melbourn
 
 <br></br>
 
-My main languages that I am familiar with are: Python, JavaScript (TypeScript), Java, MATLAB, HTML/CSS. 
+My main languages that I am familiar with are: Python, JavaScript/React (MERN Stack), Java, MATLAB.
 
-
+Currently enjoying building trading bots and understanding various algorithms and techniques, which includes a bit of Machine Learning and models.
+<br></br>
 Besides that, some hobbies I love doing are reading, cooking (I love baking), and always finding new places to eat :)
 
 
